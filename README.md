@@ -1,5 +1,5 @@
 # Glass UI like Apple Big Sur OS
-The basic HTML and CSS to design glass UI as like the Apple Big sur os.
+The basic HTML and CSS to design glass UI as like the Apple Big sur os - Inspired by: developedbyed.
 
 
 
